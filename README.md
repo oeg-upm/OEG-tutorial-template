@@ -1,2 +1,2 @@
 # Tutorial-acronym
-Website for the tutorial <<tutorial-title>> at <<event>>
+Website for the tutorial **tutorial-title** at **event**
